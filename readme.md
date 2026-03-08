@@ -1,11 +1,10 @@
 # catppuccin-for-stash
 
-## Description
+Catppuccin and Dracula themes for [Stash](https://stashapp.cc).
 
-## Installation
+## Install
 
-## Usage
-
-## License
-
-See LICENSE file for details.
+1. In Stash, go to Settings > Plugins
+2. Add this repo as a source
+3. Install and enable the theme
+4. Reload
